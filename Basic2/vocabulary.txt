@@ -1,0 +1,3 @@
+cat : 고양이
+car : 자동차
+machine : 기계
